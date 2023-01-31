@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DiegoBeker
 - 👀 I’m interested in programming, cooking and online games.
 - 🌱 I’m currently learning Java, SpringBoot, SQL, JavaScript, HTML and CSS.
-- 💞️ I’m looking to collaborate on a Tech Company as Back-end Developer.
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on a Tech Company as Full Stack Developer.
 
 Diego Beker
 
