@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiegoBeker
 - 👀 I’m interested in programming, cooking and online games.
-- 🌱 I’m currently learning Java, SpringBoot, React, NojeJS, MongoDB, PostgreSQL.
+- 🌱 I’m currently learning Java, TypeScript, React, NojeJS, MongoDB, PostgreSQL.
 - 💞️ I’m looking to collaborate on a Tech Company as Full Stack Developer.
 
 
